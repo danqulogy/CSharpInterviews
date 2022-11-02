@@ -1,0 +1,15 @@
+C:\projects\CSharpInterviews\Proxify\bin\Debug\net6.0\Proxify.exe
+C:\projects\CSharpInterviews\Proxify\bin\Debug\net6.0\Proxify.deps.json
+C:\projects\CSharpInterviews\Proxify\bin\Debug\net6.0\Proxify.runtimeconfig.json
+C:\projects\CSharpInterviews\Proxify\bin\Debug\net6.0\Proxify.dll
+C:\projects\CSharpInterviews\Proxify\bin\Debug\net6.0\Proxify.pdb
+C:\projects\CSharpInterviews\Proxify\obj\Debug\net6.0\Proxify.csproj.AssemblyReference.cache
+C:\projects\CSharpInterviews\Proxify\obj\Debug\net6.0\Proxify.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpInterviews\Proxify\obj\Debug\net6.0\Proxify.AssemblyInfoInputs.cache
+C:\projects\CSharpInterviews\Proxify\obj\Debug\net6.0\Proxify.AssemblyInfo.cs
+C:\projects\CSharpInterviews\Proxify\obj\Debug\net6.0\Proxify.csproj.CoreCompileInputs.cache
+C:\projects\CSharpInterviews\Proxify\obj\Debug\net6.0\Proxify.dll
+C:\projects\CSharpInterviews\Proxify\obj\Debug\net6.0\refint\Proxify.dll
+C:\projects\CSharpInterviews\Proxify\obj\Debug\net6.0\Proxify.pdb
+C:\projects\CSharpInterviews\Proxify\obj\Debug\net6.0\Proxify.genruntimeconfig.cache
+C:\projects\CSharpInterviews\Proxify\obj\Debug\net6.0\ref\Proxify.dll

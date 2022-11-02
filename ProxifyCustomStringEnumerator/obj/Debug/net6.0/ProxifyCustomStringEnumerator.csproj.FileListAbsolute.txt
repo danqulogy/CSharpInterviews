@@ -1,0 +1,15 @@
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\bin\Debug\net6.0\ProxifyCustomStringEnumerator.exe
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\bin\Debug\net6.0\ProxifyCustomStringEnumerator.deps.json
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\bin\Debug\net6.0\ProxifyCustomStringEnumerator.runtimeconfig.json
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\bin\Debug\net6.0\ProxifyCustomStringEnumerator.dll
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\bin\Debug\net6.0\ProxifyCustomStringEnumerator.pdb
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\obj\Debug\net6.0\ProxifyCustomStringEnumerator.csproj.AssemblyReference.cache
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\obj\Debug\net6.0\ProxifyCustomStringEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\obj\Debug\net6.0\ProxifyCustomStringEnumerator.AssemblyInfoInputs.cache
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\obj\Debug\net6.0\ProxifyCustomStringEnumerator.AssemblyInfo.cs
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\obj\Debug\net6.0\ProxifyCustomStringEnumerator.csproj.CoreCompileInputs.cache
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\obj\Debug\net6.0\ProxifyCustomStringEnumerator.dll
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\obj\Debug\net6.0\refint\ProxifyCustomStringEnumerator.dll
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\obj\Debug\net6.0\ProxifyCustomStringEnumerator.pdb
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\obj\Debug\net6.0\ProxifyCustomStringEnumerator.genruntimeconfig.cache
+C:\projects\CSharpInterviews\ProxifyCustomStringEnumerator\obj\Debug\net6.0\ref\ProxifyCustomStringEnumerator.dll

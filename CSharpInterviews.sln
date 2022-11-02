@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxify", "Proxify\Proxify.csproj", "{964E625D-EC87-4BA8-B33A-85C58517D176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxifyInvoice", "ProxifyInvoice\ProxifyInvoice.csproj", "{5156005B-65F3-4B83-8C35-9185DBCB9FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxifyCustomStringEnumerator", "ProxifyCustomStringEnumerator\ProxifyCustomStringEnumerator.csproj", "{03E9DC37-45F7-480C-975E-4F4AF7C915D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964E625D-EC87-4BA8-B33A-85C58517D176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964E625D-EC87-4BA8-B33A-85C58517D176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964E625D-EC87-4BA8-B33A-85C58517D176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964E625D-EC87-4BA8-B33A-85C58517D176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5156005B-65F3-4B83-8C35-9185DBCB9FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5156005B-65F3-4B83-8C35-9185DBCB9FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5156005B-65F3-4B83-8C35-9185DBCB9FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5156005B-65F3-4B83-8C35-9185DBCB9FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E9DC37-45F7-480C-975E-4F4AF7C915D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E9DC37-45F7-480C-975E-4F4AF7C915D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E9DC37-45F7-480C-975E-4F4AF7C915D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E9DC37-45F7-480C-975E-4F4AF7C915D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
